@@ -1,6 +1,8 @@
 
 # Full Stack Game Rental App
 
+Team Members: Nishant Tiwari, Ynah Novilla
+
 ## Overview
 This is a full-stack web application for an online game rental service, developed using **Java**, **PostgreSQL**, and **SQL**. The system allows users to browse, rent games, manage inventory, and handle customer details, featuring role-based access and a secure login mechanism. The project simulates a real-world game rental platform.
 
