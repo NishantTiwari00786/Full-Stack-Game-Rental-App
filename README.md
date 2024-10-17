@@ -5,7 +5,7 @@ Team Members: Nishant Tiwari, Ynah Novilla
 
 ## Overview
 This is a full-stack web application for an online game rental service, developed using **Java**, **PostgreSQL**, and **SQL**. The system allows users to browse, rent games, manage inventory, and handle customer details, featuring role-based access and a secure login mechanism. The project simulates a real-world game rental platform.
-
+Please refer to documentation for detailed explanations of each functions
 ## Features
 1. **User Management**
    - Create, read, update, and delete customer profiles.
@@ -29,17 +29,6 @@ This is a full-stack web application for an online game rental service, develope
 - **Rentals**: Tracks rental transactions.
 - **Roles**: Manages role-based permissions for users.
 
-## Setup Instructions
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/NishantTiwari00786/Full-Stack-Game-Rental-App.git
-   ```
-2. **Set up the PostgreSQL database**.
-3. **Run the project**:
-   ```bash
-   mvn clean install
-   java -jar target/game-rental-system.jar
-   ```
 
 ## Technologies Used
 - **Java**
